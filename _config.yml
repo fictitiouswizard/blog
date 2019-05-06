@@ -78,6 +78,9 @@ pagination_dir: page
 theme: cactus
 
 theme_config: 
+  gravatar:
+    email: fictitiouswizard@gmail.com
+
   colorscheme: dark
 
   nav:
@@ -89,7 +92,7 @@ theme_config:
     instagram: https://www.instagram.com/FictitiousWizard/
     twitter: https://twitter.com/ForgedWizard
     github: https://github.com/fictitiouswizard
-    mail: mailto:fictitiouswizard@gmail.com
+    mail: mailto:jason@fictitiouswizard.com
 
   logo:
     enabled: true
@@ -108,6 +111,11 @@ theme_config:
     apple:
       url: /images/apple-touch-icon.png
       gravatar: true
+  
+  rss: false
+
+  posts_overview:
+    show_all_posts: true
 
 
 
